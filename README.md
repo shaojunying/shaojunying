@@ -4,7 +4,7 @@ I am Shaojunying, a postgraduate student in Beijing University of Posts and Tele
 
 Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu.com/people/shaojunying) | [Blog](https://blog.nowcoder.net/shaojunying)
 
-# Blog posts
+## <a href="https://shaojunying.github.io/" target="_blank">Blog posts</a>
 <!-- BLOG-POST-LIST:START -->
 - [HashMap和HashTable的区别](https://shaojunying.github.io/2020/07/17/HashMap%E5%92%8CHashTable%E7%9A%84%E5%8C%BA%E5%88%AB/)
 - [Spring](https://shaojunying.github.io/2020/07/05/Spring/)
@@ -13,7 +13,7 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 - [数据库索引](https://shaojunying.github.io/2020/06/23/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B4%A2%E5%BC%95/)
 <!-- BLOG-POST-LIST:END -->
 
-# Douban Interests
+## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
 - [想看小鬼当家2](http://movie.douban.com/subject/1293353/)
 - [想看小鬼当家](http://movie.douban.com/subject/1293088/)
