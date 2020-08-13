@@ -6,11 +6,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [HashMap和HashTable的区别](https://shaojunying.github.io/2020/07/17/HashMap%E5%92%8CHashTable%E7%9A%84%E5%8C%BA%E5%88%AB/)
+- [Spring](https://shaojunying.github.io/2020/07/05/Spring/)
+- [计算机网络](https://shaojunying.github.io/2020/07/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
+- [数据库锁](https://shaojunying.github.io/2020/06/25/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%94%81/)
+- [数据库索引](https://shaojunying.github.io/2020/06/23/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B4%A2%E5%BC%95/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/shaojunying">
