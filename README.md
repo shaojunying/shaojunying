@@ -29,6 +29,16 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 #### <a href="https://www.douban.com/people/155360876/" target="_blank">douban</a>
 
 <!-- douban:START -->
+- [想看小鬼当家2](http://movie.douban.com/subject/1293353/)
+- [想看小鬼当家](http://movie.douban.com/subject/1293088/)
+- [想看人间世 第一季](http://movie.douban.com/subject/26815163/)
+- [想看背叛](http://movie.douban.com/subject/26820511/)
+- [想看大小谎言 第一季](http://movie.douban.com/subject/25953429/)
+- [想看实习医生格蕾 第一季](http://movie.douban.com/subject/1395471/)
+- [想看傲骨之战 第一季](http://movie.douban.com/subject/26798481/)
+- [想看裸婚时代](http://movie.douban.com/subject/5958582/)
+- [想看公主日记2](http://movie.douban.com/subject/1308753/)
+- [想看俄国人生七年1](http://movie.douban.com/subject/5983724/)
 <!-- douban:END -->
 
 </td>
