@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想看南京！南京！](http://movie.douban.com/subject/2294568/)
+- [想看生死地——1937淞沪抗战实录](http://movie.douban.com/subject/26591478/)
+- [想看淞沪会战](http://movie.douban.com/subject/30304002/)
+- [想看八佰](http://movie.douban.com/subject/26754233/)
 - [想看捍卫者](http://movie.douban.com/subject/27063335/)
-- [想看小鬼当家2](http://movie.douban.com/subject/1293353/)
-- [想看小鬼当家](http://movie.douban.com/subject/1293088/)
-- [想看人间世 第一季](http://movie.douban.com/subject/26815163/)
-- [想看背叛](http://movie.douban.com/subject/26820511/)
 <!-- douban:END -->
 
 <a href="https://github.com/shaojunying">
