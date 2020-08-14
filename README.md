@@ -6,11 +6,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://shaojunying.github.io/" target="_blank">Blog posts</a>
 <!-- BLOG-POST-LIST:START -->
+- [Maven的学习](https://shaojunying.github.io/2020/08/14/Maven%E7%9A%84%E5%AD%A6%E4%B9%A0/)
 - [HTTP请求的幂等性](https://shaojunying.github.io/2020/08/14/HTTP%E8%AF%B7%E6%B1%82%E7%9A%84%E5%B9%82%E7%AD%89%E6%80%A7/)
 - [HashMap和HashTable的区别](https://shaojunying.github.io/2020/07/17/HashMap%E5%92%8CHashTable%E7%9A%84%E5%8C%BA%E5%88%AB/)
 - [Spring](https://shaojunying.github.io/2020/07/05/Spring/)
 - [计算机网络](https://shaojunying.github.io/2020/07/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
-- [数据库锁](https://shaojunying.github.io/2020/06/25/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%94%81/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
