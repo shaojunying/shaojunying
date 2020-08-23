@@ -17,9 +17,9 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 <!-- douban:START -->
 - [想看蝙蝠侠：黑暗骑士崛起](http://movie.douban.com/subject/3395373/)
 - [看过公主日记](http://movie.douban.com/subject/1305065/)
-- [在看以家人之名](http://movie.douban.com/subject/34463476/)
 - [想看如此可爱的我们](http://movie.douban.com/subject/34801099/)
 - [想看南京！南京！](http://movie.douban.com/subject/2294568/)
+- [想看生死地——1937淞沪抗战实录](http://movie.douban.com/subject/26591478/)
 <!-- douban:END -->
 
 <a href="https://github.com/shaojunying">
