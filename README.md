@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想读杀死一只知更鸟](https://book.douban.com/subject/6781808/)
 - [想看忌日快乐](http://movie.douban.com/subject/27027913/)
 - [想看瑞克和莫蒂 第一季](http://movie.douban.com/subject/11537954/)
 - [想看成为简·奥斯汀](http://movie.douban.com/subject/1920805/)
 - [想看弱点](http://movie.douban.com/subject/3552028/)
-- [想看瞒天过海：美人计](http://movie.douban.com/subject/26654269/)
 <!-- douban:END -->
 
 <a href="https://github.com/shaojunying">
