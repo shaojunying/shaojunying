@@ -6,11 +6,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://shaojunying.github.io/" target="_blank">Blog posts</a>
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 486.预测赢家题解](https://shaojunying.github.io/2020/09/01/LeetCode-486-%E9%A2%84%E6%B5%8B%E8%B5%A2%E5%AE%B6%E9%A2%98%E8%A7%A3/)
+- [TODO](https://shaojunying.github.io/2020/08/22/TODO/)
+- [Spring MVC的学习](https://shaojunying.github.io/2020/08/19/Spring-MVC%E7%9A%84%E5%AD%A6%E4%B9%A0/)
 - [Spring的学习](https://shaojunying.github.io/2020/08/16/Spring%E7%9A%84%E5%AD%A6%E4%B9%A0/)
 - [Maven的学习](https://shaojunying.github.io/2020/08/14/Maven%E7%9A%84%E5%AD%A6%E4%B9%A0/)
-- [HTTP请求的幂等性](https://shaojunying.github.io/2020/08/14/HTTP%E8%AF%B7%E6%B1%82%E7%9A%84%E5%B9%82%E7%AD%89%E6%80%A7/)
-- [HashMap和HashTable的区别](https://shaojunying.github.io/2020/07/17/HashMap%E5%92%8CHashTable%E7%9A%84%E5%8C%BA%E5%88%AB/)
-- [计算机网络](https://shaojunying.github.io/2020/07/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
