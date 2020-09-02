@@ -22,6 +22,10 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 - [想看弱点](http://movie.douban.com/subject/3552028/)
 <!-- douban:END -->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <a href="https://github.com/shaojunying">
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=shaojunying&hide=css,html" />
 </a>
