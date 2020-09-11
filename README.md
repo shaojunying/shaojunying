@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [看过消失的爱人](http://movie.douban.com/subject/21318488/)
 - [想看上流社会](http://movie.douban.com/subject/27168151/)
 - [想读程序员面试金典（第6版）](https://book.douban.com/subject/34813624/)
 - [想看旅行到宇宙边缘](http://movie.douban.com/subject/3595323/)
 - [看过人体内旅行](http://movie.douban.com/subject/3442857/)
-- [想看与霍金一起了解宇宙](http://movie.douban.com/subject/4826758/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
