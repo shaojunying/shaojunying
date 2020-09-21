@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
-- [想看尖端医疗的真相](http://movie.douban.com/subject/30234901/)
-- [想看美国工厂](http://movie.douban.com/subject/30390700/)
-- [想看监视资本主义：智能陷阱](http://movie.douban.com/subject/34960008/)
-- [想看大明宫](http://movie.douban.com/subject/5356803/)
-- [想看从秦始皇到汉武帝](http://movie.douban.com/subject/26605926/)
+- [想看二次大战启示录](http://movie.douban.com/subject/4050029/)
+- [想看抢救切尔诺贝利](http://movie.douban.com/subject/3057368/)
+- [想看故宫100——看见看不见的紫禁城](http://movie.douban.com/subject/10430287/)
+- [想看与摩根·弗里曼一起穿越虫洞 第一季](http://movie.douban.com/subject/4051764/)
+- [想看宇宙的构造](http://movie.douban.com/subject/10434591/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
