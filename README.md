@@ -15,7 +15,7 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
-- [想看二次大战启示录](http://movie.douban.com/subject/4050029/)
+- [想看风骚律师 第一季](http://movie.douban.com/subject/25726259/)
 - [想看抢救切尔诺贝利](http://movie.douban.com/subject/3057368/)
 - [想看故宫100——看见看不见的紫禁城](http://movie.douban.com/subject/10430287/)
 - [想看与摩根·弗里曼一起穿越虫洞 第一季](http://movie.douban.com/subject/4051764/)
