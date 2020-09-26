@@ -23,7 +23,7 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//shaojunying/learning/pull/9) in [shaojunying/learning](https://github.com//shaojunying/learning)
+1. 🎉 Merged PR [#9](https://github.com/shaojunying/learning/pull/9) in [shaojunying/learning](https://github.com/shaojunying/learning)
 <!--END_SECTION:activity-->
 
 
