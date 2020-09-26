@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想看全彩太平洋战争](http://movie.douban.com/subject/34803208/)
 - [看过信条](http://movie.douban.com/subject/30444960/)
 - [看过沉默的真相](http://movie.douban.com/subject/33447642/)
 - [想看异星灾变 第一季](http://movie.douban.com/subject/30345691/)
 - [想看摩天大楼](http://movie.douban.com/subject/33393274/)
-- [想看匆匆那年](http://movie.douban.com/subject/25840705/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
