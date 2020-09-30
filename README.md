@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [看过上流社会](http://movie.douban.com/subject/27168151/)
 - [想看罗马 第一季](http://movie.douban.com/subject/1421781/)
 - [想看兄弟连](http://movie.douban.com/subject/1307847/)
 - [想看做工的人](http://movie.douban.com/subject/33425914/)
 - [想看罗小黑战记](http://movie.douban.com/subject/26709258/)
-- [想读被讨厌的勇气](https://book.douban.com/subject/26369699/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
