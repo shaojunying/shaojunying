@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [最近在读Redis设计与实现](https://book.douban.com/subject/25900156/)
+- [最近在读第一本Docker书](https://book.douban.com/subject/26285268/)
+- [想读Redis实战](https://book.douban.com/subject/26612779/)
 - [想看在一起](http://movie.douban.com/subject/34991672/)
 - [想看忠贞](http://movie.douban.com/subject/34875261/)
-- [想看工作女郎](http://movie.douban.com/subject/25809260/)
-- [想看一九四二](http://movie.douban.com/subject/6011805/)
-- [想看大秦帝国之崛起](http://movie.douban.com/subject/5923466/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
