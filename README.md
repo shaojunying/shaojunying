@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想看绿里奇迹](http://movie.douban.com/subject/1300374/)
 - [看过恶之花](http://movie.douban.com/subject/34948080/)
 - [想读Java并发编程的艺术](https://book.douban.com/subject/26591326/)
 - [想读图解Java多线程设计模式](https://book.douban.com/subject/27116724/)
 - [想看黑袍纠察队 第一季](http://movie.douban.com/subject/3703650/)
-- [想读论中国](https://book.douban.com/subject/19920715/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
