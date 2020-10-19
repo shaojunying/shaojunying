@@ -23,7 +23,7 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/coneycode/hexo-git-backup/issues/40) in [coneycode/hexo-git-backup](https://github.com/coneycode/hexo-git-backup)
+1. ❗️ Closed issue [#2](https://github.com/shaojunying/shaojunying.github.io/issues/2) in [shaojunying/shaojunying.github.io](https://github.com/shaojunying/shaojunying.github.io)
 <!--END_SECTION:activity-->
 
 
