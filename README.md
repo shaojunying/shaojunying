@@ -15,7 +15,7 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
-- [想看金刚川](http://movie.douban.com/subject/35155748/)
+- [看过金刚川](http://movie.douban.com/subject/35155748/)
 - [想看绿里奇迹](http://movie.douban.com/subject/1300374/)
 - [看过恶之花](http://movie.douban.com/subject/34948080/)
 - [想读Java并发编程的艺术](https://book.douban.com/subject/26591326/)
