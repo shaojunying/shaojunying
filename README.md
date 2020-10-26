@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
-- [想看犯罪心理](http://movie.douban.com/subject/26951619/)
-- [在看为了和平](http://movie.douban.com/subject/35231865/)
-- [看过金刚川](http://movie.douban.com/subject/35155748/)
-- [想看绿里奇迹](http://movie.douban.com/subject/1300374/)
-- [看过恶之花](http://movie.douban.com/subject/34948080/)
+- [想看全球风暴](http://movie.douban.com/subject/22266012/)
+- [想看末日崩塌](http://movie.douban.com/subject/25786077/)
+- [想看独立日](http://movie.douban.com/subject/1293013/)
+- [想看后天](http://movie.douban.com/subject/1308779/)
+- [想看铁线虫入侵](http://movie.douban.com/subject/6839145/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
