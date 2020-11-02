@@ -6,11 +6,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://shaojunying.github.io/" target="_blank">Blog posts</a>
 <!-- BLOG-POST-LIST:START -->
+- [Redis的五种对象使用的数据结构](https://shaojunying.github.io/2020/11/02/Redis%E7%9A%84%E4%BA%94%E7%A7%8D%E5%AF%B9%E8%B1%A1%E4%BD%BF%E7%94%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
 - [LeetCode 349. 两个数组的交集](https://shaojunying.github.io/2020/11/02/LeetCode-349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86/)
 - [Redis中的跳跃表](https://shaojunying.github.io/2020/10/28/Redis%E4%B8%AD%E7%9A%84%E8%B7%B3%E8%B7%83%E8%A1%A8/)
 - [Java中的Stack](https://shaojunying.github.io/2020/10/28/Java%E4%B8%AD%E7%9A%84Stack/)
 - [Redis中的字典](https://shaojunying.github.io/2020/10/27/Redis%E4%B8%AD%E5%AD%97%E5%85%B8%E7%9A%84%E5%AE%9E%E7%8E%B0/)
-- [Redis数据库的学习](https://shaojunying.github.io/2020/10/25/Redis%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%AD%A6%E4%B9%A0/)
 <!-- BLOG-POST-LIST:END -->
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
