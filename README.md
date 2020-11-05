@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [在看叹息桥](http://movie.douban.com/subject/30481987/)
+- [想看摩登情爱 第一季](http://movie.douban.com/subject/30385409/)
+- [想看大小谎言 第一季](http://movie.douban.com/subject/25953429/)
+- [想看后翼弃兵](http://movie.douban.com/subject/32579283/)
 - [想看副总统 第二季](http://movie.douban.com/subject/10797516/)
-- [想读微服务架构设计模式](https://book.douban.com/subject/33425123/)
-- [想读Tomcat架构解析](https://book.douban.com/subject/27034717/)
-- [读过第一本Docker书](https://book.douban.com/subject/26285268/)
-- [想看风平浪静](http://movie.douban.com/subject/27589933/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
