@@ -15,10 +15,10 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [看过叹息桥](http://movie.douban.com/subject/30481987/)
 - [看过为了和平](http://movie.douban.com/subject/35231865/)
 - [想看风犬少年的天空](http://movie.douban.com/subject/30413128/)
 - [想看大空头](http://movie.douban.com/subject/26303622/)
-- [在看叹息桥](http://movie.douban.com/subject/30481987/)
 - [想看摩登情爱 第一季](http://movie.douban.com/subject/30385409/)
 <!-- douban:END -->
 
