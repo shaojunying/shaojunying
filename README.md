@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [读过Redis设计与实现](https://book.douban.com/subject/25900156/)
 - [最近在读操作系统导论](https://book.douban.com/subject/33463930/)
 - [想读Pro Git (Second Edition)](https://book.douban.com/subject/26208470/)
 - [想读Kubernetes in Action中文版](https://book.douban.com/subject/30418855/)
 - [想读Java编程思想](https://book.douban.com/subject/2061172/)
-- [想读正则表达式必知必会（修订版）](https://book.douban.com/subject/26285406/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
