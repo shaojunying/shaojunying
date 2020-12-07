@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想看电话](http://movie.douban.com/subject/30346025/)
 - [想读安娜·卡列尼娜](https://book.douban.com/subject/2253380/)
 - [想读红岩](https://book.douban.com/subject/1090109/)
 - [想看大秦赋](http://movie.douban.com/subject/26413293/)
 - [想看岁月](http://movie.douban.com/subject/2389241/)
-- [在看父母爱情](http://movie.douban.com/subject/19965220/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
