@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想读红楼梦](https://book.douban.com/subject/1007305/)
+- [想读Spring揭秘](https://book.douban.com/subject/3897837/)
+- [读过剑指Offer：名企面试官精讲典型编程题（第2版）](https://book.douban.com/subject/27008702/)
 - [想看白日梦想家](http://movie.douban.com/subject/2133323/)
-- [想读操作系统 精髓与设计原理 第8版 全球版](https://book.douban.com/subject/30770794/)
 - [看过父母爱情](http://movie.douban.com/subject/19965220/)
-- [想看神奇女侠1984](http://movie.douban.com/subject/27073752/)
-- [想看神奇女侠](http://movie.douban.com/subject/1578714/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
