@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想看阳光普照](http://movie.douban.com/subject/30292777/)
 - [想看海边的曼彻斯特](http://movie.douban.com/subject/25980443/)
 - [想看谍影重重3](http://movie.douban.com/subject/1578507/)
 - [想看电锯惊魂](http://movie.douban.com/subject/1417598/)
 - [看过神奇女侠1984](http://movie.douban.com/subject/27073752/)
-- [想看空乘危机 第一季](http://movie.douban.com/subject/27186369/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
