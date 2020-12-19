@@ -19,7 +19,7 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 - [想看谍影重重3](http://movie.douban.com/subject/1578507/)
 - [想看电锯惊魂](http://movie.douban.com/subject/1417598/)
 - [看过神奇女侠1984](http://movie.douban.com/subject/27073752/)
-- [想看空乘危机](http://movie.douban.com/subject/27186369/)
+- [想看空乘危机 第一季](http://movie.douban.com/subject/27186369/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
