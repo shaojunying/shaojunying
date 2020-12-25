@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想看我的团长我的团](http://movie.douban.com/subject/2997325/)
+- [想看罗小黑战记](http://movie.douban.com/subject/10477598/)
 - [在看在一起](http://movie.douban.com/subject/34991672/)
 - [看过大小谎言 第一季](http://movie.douban.com/subject/25953429/)
 - [想看苍穹浩瀚 第五季](http://movie.douban.com/subject/34725334/)
-- [想看阳光普照](http://movie.douban.com/subject/30292777/)
-- [想看海边的曼彻斯特](http://movie.douban.com/subject/25980443/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
