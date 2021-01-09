@@ -15,11 +15,11 @@ Find me on: [GitHub](https://github.com/shaojunying) | [Zhihu](https://www.zhihu
 
 ## <a href="https://www.douban.com/people/155360876/" target="_blank">Douban Interests</a>
 <!-- douban:START -->
+- [想看良医 第一季](http://movie.douban.com/subject/26888731/)
 - [看过沐浴之王](http://movie.douban.com/subject/34894753/)
 - [想看心灵奇旅](http://movie.douban.com/subject/24733428/)
 - [想看逃避虽可耻但有用](http://movie.douban.com/subject/26816519/)
 - [想看一秒钟](http://movie.douban.com/subject/30257787/)
-- [想看除暴](http://movie.douban.com/subject/30373723/)
 <!-- douban:END -->
 
 <!--START_SECTION:activity-->
