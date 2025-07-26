@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Junying+Shao+👋;Postgraduate+Student+📚;Tech+Enthusiast+💻;Always+Learning+🚀" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaojunying&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shaojunying?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
----
-
 ## 🎓 About Me
 
 Hello! I'm **Junying Shao**, a passionate postgraduate student at Beijing University of Posts and Telecommunications (BUPT). I'm deeply interested in technology, research, and continuous learning.
